@@ -21,4 +21,4 @@ React projekt futtatása:
   Csomagold ki a ReactProject.zip állományt, majd futassa a "npm i" parancsot.
   
   
-  Csapattagok neve: Bai Máté, Kádasi Emese, Szabó Bálint
+  Csapattagok neve: Bai Máté, Kádasi Emese Tímea, Szabó Bálint
