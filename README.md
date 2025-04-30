@@ -1,0 +1,1 @@
+# Szoftverfejleszt-s-s--tesztel-s-vizsgaremek
