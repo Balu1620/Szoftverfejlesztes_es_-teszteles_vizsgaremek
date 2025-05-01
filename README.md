@@ -3,7 +3,7 @@
 ## Tartalom
 A tároló az alábbi fontos fájlokat és dokumentumokat tartalmazza:
 - Projekt_Feladat_Dokumentacio.docx – A projekt részletes dokumentációja (funkciók, tervezés, leírások)
-- Projekt_feladat-main.zip – A laravel teljes forráskódja tömörített formában
+- MotorcycleRental_LaravelProjekt.7z – A laravel teljes forráskódja tömörített formában
 - ReactProject.zip – A frontend (React) projekt tömörített változata
 - motorcyclerental.sql – Az adatbázis dump fájl (SQL), amely tartalmazza az adatbázis szerkezetét és tartalmát
 - img.zip – A laravelhez tartozó képfájlok tömöritett mappája
