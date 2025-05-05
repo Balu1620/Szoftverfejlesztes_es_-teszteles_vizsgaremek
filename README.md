@@ -11,7 +11,7 @@ A tároló az alábbi fontos fájlokat és dokumentumokat tartalmazza:
 ## Használati útmutató
   Adatbázis importálása: a motorcyclerental.sql fájl betölthető például MySQL Workbench vagy phpMyAdmin segítségével.
 
-## Képek csatoolása laravelhez
+## Képek csatolása laravelhez
   img.zip kibontása, a Projekt_feladat-main.zip kibontása és ezen belül a storage/app/public be kell rakni az img mappát
 
 ## Fontos 
